@@ -127,18 +127,18 @@ crates:
         commands:
           - "eco give {player} 50"
           - "tell {player} You received 50 coins with your iron ingots!"
-    coins_50:
-        material: SUNFLOWER
-        amount: 1  # Must be at least 1
-        command-only: true  # This makes it command-only
-        display-name: "&e50 Coins"
-        lore:
-          - "&7Adds 50 coins to your account."
-        rarity: COMMON
-        weight: 10.0
-        commands:
-          - "eco give {player} 50"
-          - "tell {player} You received 50 coins!"
+      coins_50:
+          material: SUNFLOWER
+          amount: 1  # Must be at least 1
+          command-only: true  # This makes it command-only
+          display-name: "&e50 Coins"
+          lore:
+            - "&7Adds 50 coins to your account."
+          rarity: COMMON
+          weight: 10.0
+          commands:
+            - "eco give {player} 50"
+            - "tell {player} You received 50 coins!"
 ```
 
 ### locations.yml
