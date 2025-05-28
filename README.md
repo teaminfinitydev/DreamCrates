@@ -1,5 +1,8 @@
 # DreamCrates
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/dreamcrates_banner.svg" alt="OutbreakX Banner" width="800"/>
+</p>
 DreamCrates is a feature-rich and highly customizable crate plugin for Minecraft servers running Paper 1.21.1+.
 
 ## Features
