@@ -1,10 +1,13 @@
-# DreamCrates
+<h1 align="center">
+  DreamCrates
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/teaminfinitydev/teaminfinitydev/refs/heads/main/img/dreamcrates_banner.svg" alt="OutbreakX Banner" width="800"/>
 </p>
+<p align="center">
 DreamCrates is a feature-rich and highly customizable crate plugin for Minecraft servers running Paper 1.21.1+.
-
+</p>
 ## Features
 
 - **Multiple Crate Types**: Create unlimited custom crate types with different rarities
