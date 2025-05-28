@@ -23,7 +23,7 @@ DreamCrates is a feature-rich and highly customizable crate plugin for Minecraft
 
 ## Installation
 
-1. Download the latest version of DreamCrates from [GitHub Releases](https://github.com/yourusername/DreamCrates/releases)
+1. Download the latest version of DreamCrates from [GitHub Releases](https://github.com/teaminfinitydev/DreamCrates/releases)
 2. Place the JAR file in your server's `plugins` folder
 3. Restart your server
 4. Edit the configuration files to customize crates and rewards
@@ -188,7 +188,7 @@ These placeholders can be used in reward commands:
 
 ## Support
 
-For support, please create an issue on the [GitHub repository](https://github.com/yourusername/DreamCrates/issues).
+For support, please create an issue on the [GitHub repository](https://github.com/teaminfinitydev/DreamCrates/issues).
 
 ## License
 
